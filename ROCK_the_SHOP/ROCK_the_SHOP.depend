@@ -1,0 +1,163 @@
+# depslib dependency file v1.0
+1737205266 source:f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\main.cpp
+	"OrderManager.h"
+	"Reports.h"
+
+1735834845 source:f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\employee.cpp
+	"Employee.h"
+
+1736633184 f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\employee.h
+	<iostream>
+	<string>
+	<stdexcept>
+	<algorithm>
+	<ctime>
+
+1736530767 source:f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\operatorcomenzi.cpp
+	"OperatorComenzi.h"
+
+1736614941 f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\operatorcomenzi.h
+	"Employee.h"
+	"Order.h"
+
+1735834592 source:f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\asistent.cpp
+	"Asistent.h"
+
+1736614854 f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\asistent.h
+	"Employee.h"
+
+1735827457 source:f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\manager.cpp
+	"Manager.h"
+
+1736616679 f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\manager.h
+	"Employee.h"
+
+1735847109 source:f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\clothing.cpp
+	"Clothing.h"
+
+1736614887 f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\clothing.h
+	"Product.h"
+
+1736614953 f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\product.h
+	<iostream>
+	<string>
+	<unordered_map>
+
+1735641827 source:f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\product.cpp
+	"Product.h"
+
+1735847119 source:f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\disc.cpp
+	"Disc.h"
+
+1736614893 f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\disc.h
+	"Product.h"
+
+1735847126 source:f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\vintagedisc.cpp
+	"VintageDisc.h"
+
+1736614967 f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\vintagedisc.h
+	"Disc.h"
+
+1736462525 source:f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\inventorymanager.cpp
+	"InventoryManager.h"
+
+1737328551 f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\inventorymanager.h
+	<vector>
+	<memory>
+	<algorithm>
+	"Product.h"
+
+1736615028 source:f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\employeemanager.cpp
+	"EmployeeManager.h"
+	"Reports.h"
+
+1737327856 f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\employeemanager.h
+	"Employee.h"
+	"Manager.h"
+	"OperatorComenzi.h"
+	"Asistent.h"
+
+1735646009 source:f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\orderitem.cpp
+	"OrderItem.h"
+
+1736614880 f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\orderitem.h
+	<string>
+
+1736522726 source:f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\order.cpp
+	"Order.h"
+
+1736614945 f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\order.h
+	"InventoryManager.h"
+	"Employee.h"
+	"Clothing.h"
+	"Disc.h"
+	"VintageDisc.h"
+	"OrderItem.h"
+
+1736615098 source:f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\reports.cpp
+	"Reports.h"
+
+1736614959 f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\reports.h
+	"EmployeeManager.h"
+	<fstream>
+
+1737205266 source:f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\ordermanager.cpp
+	"OrderManager.h"
+
+1737205266 f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\ordermanager.h
+	<queue>
+	<chrono>
+	<thread>
+	<atomic>
+	<fstream>
+	<iomanip>
+	"Order.h"
+	"OperatorComenzi.h"
+
+1735834845 f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\employee.cpp
+	"Employee.h"
+
+1735834592 f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\asistent.cpp
+	"Asistent.h"
+
+1735641827 f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\product.cpp
+	"Product.h"
+
+1735847109 f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\clothing.cpp
+	"Clothing.h"
+
+1735847119 f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\disc.cpp
+	"Disc.h"
+
+1735827457 f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\manager.cpp
+	"Manager.h"
+
+1736462525 f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\inventorymanager.cpp
+	"InventoryManager.h"
+
+1735847126 f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\vintagedisc.cpp
+	"VintageDisc.h"
+
+1735646009 f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\orderitem.cpp
+	"OrderItem.h"
+
+1736522726 f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\order.cpp
+	"Order.h"
+
+1736530767 f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\operatorcomenzi.cpp
+	"OperatorComenzi.h"
+
+1736611793 f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\employeemanager.cpp
+	"EmployeeManager.h"
+	"Reports.h"
+	<algorithm>
+	<ctime>
+
+1736611203 f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\reports.cpp
+	"Reports.h"
+
+1736609548 f:\facultate\an2\semestru1\poo\proiect\rock_the_shop\ordermanager.cpp
+	"OrderManager.h"
+	<algorithm>
+	<iostream>
+

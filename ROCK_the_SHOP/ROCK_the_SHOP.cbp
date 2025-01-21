@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ROCK_the_SHOP" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ROCK_the_SHOP" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ROCK_the_SHOP" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Asistent.cpp" />
+		<Unit filename="Asistent.h" />
+		<Unit filename="Clothing.cpp" />
+		<Unit filename="Clothing.h" />
+		<Unit filename="Disc.cpp" />
+		<Unit filename="Disc.h" />
+		<Unit filename="Employee.cpp" />
+		<Unit filename="Employee.h" />
+		<Unit filename="EmployeeManager.cpp" />
+		<Unit filename="EmployeeManager.h" />
+		<Unit filename="InventoryManager.cpp" />
+		<Unit filename="InventoryManager.h" />
+		<Unit filename="Manager.cpp" />
+		<Unit filename="Manager.h" />
+		<Unit filename="OperatorComenzi.cpp" />
+		<Unit filename="OperatorComenzi.h" />
+		<Unit filename="Order.cpp" />
+		<Unit filename="Order.h" />
+		<Unit filename="OrderItem.cpp" />
+		<Unit filename="OrderItem.h" />
+		<Unit filename="OrderManager.cpp" />
+		<Unit filename="OrderManager.h" />
+		<Unit filename="Product.cpp" />
+		<Unit filename="Product.h" />
+		<Unit filename="Reports.cpp" />
+		<Unit filename="Reports.h" />
+		<Unit filename="VintageDisc.cpp" />
+		<Unit filename="VintageDisc.h" />
+		<Unit filename="main.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

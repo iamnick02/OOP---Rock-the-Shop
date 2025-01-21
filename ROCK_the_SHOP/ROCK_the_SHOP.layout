@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="OrderItem.cpp" open="1" top="0" tabpos="21" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="459" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="OperatorComenzi.h" open="1" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="806" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Order.h" open="1" top="0" tabpos="18" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="156" topLine="7" />
+		</Cursor>
+	</File>
+	<File name="Reports.cpp" open="1" top="0" tabpos="25" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2264" topLine="43" />
+		</Cursor>
+	</File>
+	<File name="EmployeeManager.h" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="629" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Manager.cpp" open="1" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="394" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="OrderManager.h" open="1" top="0" tabpos="28" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="491" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="EmployeeManager.cpp" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2401" topLine="45" />
+		</Cursor>
+	</File>
+	<File name="InventoryManager.cpp" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2534" topLine="32" />
+		</Cursor>
+	</File>
+	<File name="Reports.h" open="1" top="0" tabpos="24" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="459" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Disc.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="665" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Asistent.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="313" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Disc.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="468" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Product.cpp" open="1" top="0" tabpos="23" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="511" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Clothing.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="501" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="OperatorComenzi.cpp" open="1" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="644" topLine="7" />
+		</Cursor>
+	</File>
+	<File name="Product.h" open="1" top="0" tabpos="22" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="215" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Order.cpp" open="1" top="0" tabpos="19" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="561" topLine="10" />
+		</Cursor>
+	</File>
+	<File name="VintageDisc.cpp" open="1" top="0" tabpos="27" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="649" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Manager.h" open="1" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="296" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Employee.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="737" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9876" topLine="259" />
+		</Cursor>
+	</File>
+	<File name="Asistent.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="507" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="OrderManager.cpp" open="1" top="0" tabpos="29" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8147" topLine="228" />
+		</Cursor>
+	</File>
+	<File name="InventoryManager.h" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="689" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Clothing.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="365" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="OrderItem.h" open="1" top="0" tabpos="20" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="318" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Employee.cpp" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1756" topLine="59" />
+		</Cursor>
+	</File>
+	<File name="VintageDisc.h" open="1" top="0" tabpos="26" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="384" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
