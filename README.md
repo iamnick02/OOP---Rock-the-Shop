@@ -24,7 +24,7 @@ Modular Design:
 - Uses an extensible architecture based on inheritance and polymorphism.
 
 ## 🚀 How to Run
-- `git clone https://github.com/your-username/ROCK_the_SHOP.git`  
+- `git clone [https://github.com/your-username/ROCK_the_SHOP.git](https://github.com/iamnick02/OOP---Rock-the-Shop)`  
   Navigate to the project directory:
 - `cd ROCK_the_SHOP`  
   Compile the project:
