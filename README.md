@@ -29,10 +29,13 @@ Run the application:
 - `./ROCK_the_SHOP`
 
 ## 📂 Documentation
-For a detailed explanation of the project structure, class hierarchy, and implementation details, refer to:
+For a detailed explanation of the project structure, class hierarchy, and implementation details, you can refer to the following:
 
-Project Documentation (PDF)
-Implementation Explanation (PDF)
+- **[Project Documentation (PDF)](./docs/Documentatie_Petrescu_Nicolae_Adrian_324AA.pdf)**: Includes a comprehensive explanation of the code, classes, and their functionalities.
+
+### 📄 Project Requirements
+To better understand the initial objectives of the project, you can view the full requirements document here:  
+- **[Project Requirements (PDF)](./docs/Cerinta_Proiect.pdf)**
 
 ## 💡 Key Concepts Used
 Object-Oriented Design:
