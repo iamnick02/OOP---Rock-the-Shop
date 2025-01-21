@@ -9,18 +9,18 @@ To better understand the initial objectives of the project, you can view the ful
 ## 🏆 Key Features
 Employee Management:
 - Includes roles such as managers, order operators, and assistants.
-- Calculates salaries based on experience, bonuses, and performance.
-Inventory Management:
+- Calculates salaries based on experience, bonuses, and performance.  
+  Inventory Management:
 - Adds, removes, and updates stock for products like clothing, CDs, and vintage records.
-- Calculates delivery prices and handles product-specific attributes (e.g., color, brand, rarity).
-Order Processing:
+- Calculates delivery prices and handles product-specific attributes (e.g., color, brand, rarity).  
+  Order Processing:
 - Automatically assigns orders to available operators.
-- Validates and processes orders, ensuring compliance with inventory and business rules.
-Reports:
+- Validates and processes orders, ensuring compliance with inventory and business rules.  
+  Reports:
 - Generates detailed performance reports, including:
 - Most orders processed by an operator.
-- Top 3 employees by salary and order value.
-Modular Design:
+- Top 3 employees by salary and order value.  
+  Modular Design:
 - Uses an extensible architecture based on inheritance and polymorphism.
 
 ## 🚀 How to Run
