@@ -49,10 +49,10 @@ For a detailed explanation of the project structure, class hierarchy, and implem
 **Object-Oriented Design**:
 - Inheritance and polymorphism for extensibility.
 - Encapsulation to manage employee and product data securely.
-- 
+  
 **Modern C++ Features**:
 - Smart pointers (shared_ptr) for safe memory management.
 - STL containers like vector and queue for data handling.
-- 
+  
 **Error Handling**:
 - Exception-based error handling for robust application logic.
