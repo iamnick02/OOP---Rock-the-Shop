@@ -33,8 +33,8 @@ To better understand the initial objectives of the project, you can view the ful
   Navigate to the project directory:
 - `cd ROCK_the_SHOP`  
   Compile the project:
-- `g++ *.cpp -o ROCK_the_SHOP`
-Run the application:
+- `g++ *.cpp -o ROCK_the_SHOP`  
+  Run the application:
 - `./ROCK_the_SHOP`
 
 ## 📂 Documentation
