@@ -31,10 +31,12 @@ To better understand the initial objectives of the project, you can view the ful
 ## 🚀 How to Run
 - `git clone https://github.com/your-username/ROCK_the_SHOP.git`  
   Navigate to the project directory:
-- `cd ROCK_the_SHOP`  
-  Compile the project:
-- `g++ *.cpp -o ROCK_the_SHOP`  
-  Run the application:
+- `cd ROCK_the_SHOP`
+  
+Compile the project:
+- `g++ *.cpp -o ROCK_the_SHOP`
+
+Run the application:
 - `./ROCK_the_SHOP`
 
 ## 📂 Documentation
