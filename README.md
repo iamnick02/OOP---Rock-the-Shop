@@ -21,7 +21,7 @@ Modular Design:
 
 ## 🚀 How to Run
 - `git clone https://github.com/your-username/ROCK_the_SHOP.git`
- Navigate to the project directory:
+  Navigate to the project directory:
 - `cd ROCK_the_SHOP`
 Compile the project:
 - `g++ *.cpp -o ROCK_the_SHOP`
