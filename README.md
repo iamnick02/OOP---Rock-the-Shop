@@ -4,7 +4,7 @@
 
 ## 📄 Project Requirements
 To better understand the initial objectives of the project, you can view the full requirements document here:  
-- **[Project Requirements (PDF)](./docs/Proiect_POO_2024_final)**
+- **[Project Requirements (PDF)](ROCK_the_SHOP/docs/Proiect_POO_2024_final)**
 
 ## 🏆 Key Features
 Employee Management:
@@ -35,7 +35,7 @@ Run the application:
 ## 📂 Documentation
 For a detailed explanation of the project structure, class hierarchy, and implementation details, you can refer to the following:
 
-- **[Project Documentation (PDF)](./docs/Documentatie_Petrescu_Nicolae_Adrian_324AA)**: Includes a comprehensive explanation of the code, classes, and their functionalities.
+- **[Project Documentation (PDF)](ROCK_the_SHOP/docs/Documentatie_Petrescu_Nicolae_Adrian_324AA)**: Includes a comprehensive explanation of the code, classes, and their functionalities.
 
 ## 💡 Key Concepts Used
 Object-Oriented Design:
