@@ -4,7 +4,7 @@
 
 ## 📄 Project Requirements
 To better understand the initial objectives of the project, you can view the full requirements document here:  
-- **[Project Requirements (PDF)](ROCK_the_SHOP/docs/Proiect_POO_2024_final)**
+- **[Project Requirements (PDF)](ROCK_the_SHOP/docs/Proiect_POO_2024_final.pdf)**
 
 ## 🏆 Key Features
 Employee Management:
