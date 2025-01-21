@@ -35,7 +35,7 @@ Run the application:
 ## 📂 Documentation
 For a detailed explanation of the project structure, class hierarchy, and implementation details, you can refer to the following:
 
-- **[Project Documentation (PDF)](docs/Documentatie_Petrescu_Nicolae_Adrian_324AA)**: Includes a comprehensive explanation of the code, classes, and their functionalities.
+- **[Project Documentation (PDF)](docs/Documentatie_Petrescu_Nicolae_Adrian_324AA.pdf)**: Includes a comprehensive explanation of the code, classes, and their functionalities.
 
 ## 💡 Key Concepts Used
 Object-Oriented Design:
