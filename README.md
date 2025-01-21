@@ -46,11 +46,13 @@ For a detailed explanation of the project structure, class hierarchy, and implem
 - **[Project Documentation (PDF)](docs/Documentatie_Petrescu_Nicolae_Adrian_324AA.pdf)**: Includes a comprehensive explanation of the code, classes, and their functionalities.
 
 ## 💡 Key Concepts Used
-Object-Oriented Design:
+**Object-Oriented Design**:
 - Inheritance and polymorphism for extensibility.
 - Encapsulation to manage employee and product data securely.
-Modern C++ Features:
+- 
+**Modern C++ Features**:
 - Smart pointers (shared_ptr) for safe memory management.
 - STL containers like vector and queue for data handling.
-Error Handling:
+- 
+**Error Handling**:
 - Exception-based error handling for robust application logic.
